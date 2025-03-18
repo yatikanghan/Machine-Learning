@@ -1,4 +1,4 @@
-Customer ID,Gender,Age,City,Membership Type,Total Spend,Items Purchased,Average Rating,Discount Applied,Days Since Last Purchase,Satisfaction Level
+Customer_ID,Gender,Age,City,Membership_Type,Total_Spend,Items_Purchased,Average_Rating,Discount_Applied,Days_Since_Last_Purchase,Satisfaction_Level
 101,Female,29,New York,Gold,1120.2,14,4.6,TRUE,25,Satisfied
 102,Male,34,Los Angeles,Silver,780.5,11,4.1,FALSE,18,Neutral
 103,Female,43,Chicago,Bronze,510.75,9,3.4,TRUE,42,Unsatisfied
