@@ -131,12 +131,12 @@ jupyter notebook jupyter/project.ipynb
 
 ## 📝 License
 
-This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
-- [Kaggle](https://www.kaggle.com/) for providing the dataset
-- [Scikit-learn](https://scikit-learn.org/) for machine learning tools
-- [Plotly](https://plotly.com/) for interactive visualizations
+- Kaggle (https://www.kaggle.com/) for the dataset
+- Plotly (https://plotly.com/) for advanced visualizations
+- Scikit-learn (https://scikit-learn.org/) for all machine learning task
 
 ---
