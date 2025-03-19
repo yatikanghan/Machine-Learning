@@ -23,17 +23,17 @@
 
 The dataset contains information about E-Commerce Customer Behaviour Dataset including:
 
-Customer ID - Integer
-Gender - String
-Age - Integer
-City - String
-Membership Type - String
-Total Spend - Numeric
-Items Purchased - Integer
-Average Rating - Numeric
-Discount Applied - Boolean
-Days Since Last Purchase - Integer
-Satisfaction Level - String
+- Customer ID - Integer
+- Gender - String
+- Age - Integer
+- City - String
+- Membership Type - String
+- Total Spend - Numeric
+- Items Purchased - Integer
+- Average Rating - Numeric
+- Discount Applied - Boolean
+- Days Since Last Purchase - Integer
+- Satisfaction Level - String
 
 Source: [Kaggle - E-commerce Customer Behavior Dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset)
 
