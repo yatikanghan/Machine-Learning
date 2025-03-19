@@ -116,8 +116,7 @@ Key insights extracted from the dataset:
 
 1. Clone this repository
 ```bash
-git clone https://github.com/c2p-cmd/online-gaming-behavior-analysis.git
-cd online-gaming-behavior-analysis
+git clone https://github.com/yatikanghan/Machine-Learning.git
 ```
 
 2. Create and activate a virtual environment
