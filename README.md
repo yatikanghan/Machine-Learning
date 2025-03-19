@@ -99,7 +99,6 @@ Key insights extracted from the dataset:
 3️⃣ **Optimize Discounts** – give **personalized discounting** for more product purchase, especially for unsestified consumers.  
 4️⃣ **Enhance Engagement** – apply **email marketing campign** for that customers which is inactive for **30+ days** to connect them.  
 
-##
 ## 🤖 Technologies Used
 
 - Python 3.13
