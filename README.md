@@ -1,10 +1,5 @@
 # 🛍️ E-Commerce Customer Behaviour Analysis ML Project
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-green.svg)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.2-yellow.svg)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-5.18-purple.svg)](https://plotly.com/)
 ##
 ## 👨🏻‍💻 Project Overview
 
