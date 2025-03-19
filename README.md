@@ -5,11 +5,11 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-green.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.2-yellow.svg)](https://pandas.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-5.18-purple.svg)](https://plotly.com/)
-
+##
 ## 👨🏻‍💻 Project Overview
 
  This project observed e-commerce customer behaviour in online shopping throughout my machine learning knowledge and techniques. Using a dataset of e-commerce customer behaviour, it obseved important aspects that influence online shopping and developing online shopping prediction models to enhance our business.
-
+##
 
 ## 📌 Objectives
 
@@ -18,7 +18,7 @@
 - Observation of different value comparison so that we focuses on our actual customers.
 - Focus on our targeted audience, and improve our sales.
 - It Helps businesses archive their goals and optimize their valuable assets.
-
+##
 ## 📈 Dataset
 
 The dataset contains information about E-Commerce Customer Behaviour Dataset including:
@@ -58,7 +58,7 @@ Key insights extracted from the dataset:
   - Customers with higher satisfaction tend to spend **$595.14**.
 
 ---
-
+##
 ## 📋 Project Pipeline  
 1️⃣ **Data Preprocessing**: Handle missing values, encode categorical features, and normalize numerical features.  
 2️⃣ **Feature Engineering**: Identify key features influencing customer satisfaction and spending.  
@@ -102,7 +102,7 @@ Key insights extracted from the dataset:
 2️⃣ **Personalized Marketing** – Identify **top spenders** and provide **VIP perks** & **targeted promotions** to maximize revenue.  
 3️⃣ **Optimize Discounts** – Use **personalized discounting** to drive more purchases, especially for low-satisfaction customers.  
 4️⃣ **Enhance Engagement** – Implement **email campaigns** for customers inactive for **30+ days** to re-engage them.  
-
+##
 
 ## 🤖 Technologies Used
 
@@ -111,7 +111,7 @@ Key insights extracted from the dataset:
 - Plotly & Matplotlib
 - Scikit-learn
 - Jupyter Notebook
-
+##
 ## 🚀 Getting Started
 
 1. Clone this repository
@@ -128,11 +128,11 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook jupyter/project.ipynb
 ```
-
+##
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+##
 ## 🙏 Acknowledgements
 
 - Kaggle (https://www.kaggle.com/) for the dataset
