@@ -60,18 +60,18 @@ Key insights extracted from the dataset:
 ---
 ##
 ## 📋 Project Pipeline  
-1️⃣ **Data Preprocessing**: Handle missing values, encode categorical features, and normalize numerical features.  
+1️⃣ **Data Preprocessing**: delete recode of missing values, encode category features, and normalize numerical data.  
 2️⃣ **Feature Engineering**: Identify key features influencing customer satisfaction and spending.  
-3️⃣ **Model Selection & Training**: Train ML models like **Random Forest, XGBoost, and Logistic Regression**.  
-4️⃣ **Evaluation**: Use **accuracy, precision, recall, RMSE, and F1-score** for performance assessment.  
-5️⃣ **Deployment & Business Insights**: Generate recommendations for customer retention and marketing strategies.  
+3️⃣ **Model Selection & Training**: Training this models like **Random Forest, XGBoost, and Logistic Regression**.  
+4️⃣ **Evaluation**: Use **accuracy, precision, recall, RMSE, and F1-score** for performance observation.  
+5️⃣ **Deployment & Business Insights**: Generate recommendations for customer attension and marketing strategies and tequniques.  
 
 ##
 
 ## ⚖️ Machine Learning Models Evaluated
 
 
-| Model                 | Accuracy (%) | F1 Score (%) | Training Time (s) |
+| Model                 | Accuraciy (%) | F1 Score (%) | Training Time (s) |
 |----------------------|-------------|-------------|----------------|
 | **Random Forest**    | **100.0%**   | **100.0%**   | 0.197          |
 | **SVM**             | **100.0%**   | **100.0%**   | 0.008          |
@@ -83,25 +83,26 @@ Key insights extracted from the dataset:
 ##
 
 ## 🗝️ Key Insights  
-- The **average customer age** is **33.60 years**.  
-- Customers spend an **average of $845.38 per transaction**.  
-- **Average number of items purchased per order**: **12.6 items**.  
+- The **our average customer age** is **33.60 years**.  
+- Customers spending on an **average of $845.38 per transaction**.  
+- **Average number of items purchased in per order is**: **12.6 items**.  
 - **Satisfaction Level Distribution**:  
   - ✅ **Satisfied**: **36.10%**  
   - ⚠️ **Neutral**: **30.66%**  
-  - ❌ **Unsatisfied**: **33.24%**  
+  - ❌ **Un-satisfied**: **33.24%**  
 - The **average days between purchases** is **26.59 days**.  
-- **Customers with higher satisfaction spend $1273.50 on average**, while unsatisfied customers spend only **$595.14**.  
+- **Higher satisfied consumers spending $1273.50 on an average**, while unsatisfied consumers spend only **$595.14** on an average.  
 
 ---
 - 
 ##
 
 ## 🗣 Business Recommendations  
-1️⃣ **Boost Retention** – Offer **5-10% discounts** or **loyalty perks** to **Neutral/Unsatisfied customers** to increase repeat purchases.  
-2️⃣ **Personalized Marketing** – Identify **top spenders** and provide **VIP perks** & **targeted promotions** to maximize revenue.  
-3️⃣ **Optimize Discounts** – Use **personalized discounting** to drive more purchases, especially for low-satisfaction customers.  
-4️⃣ **Enhance Engagement** – Implement **email campaigns** for customers inactive for **30+ days** to re-engage them.  
+
+1️⃣ **Boost Retention** – Offere **5-10% discounts** or **loyality** to **Neutral/Very Unsatisfied consumers** to increase their repeat product purchases.  
+2️⃣ **Personalized Marketing** – Identifying **top consumers** and provide **VIP services** & **targeted promotions** to enhance our revenue.  
+3️⃣ **Optimize Discounts** – give **personalized discounting** for more product purchase, especially for unsestified consumers.  
+4️⃣ **Enhance Engagement** – apply **email marketing campign** for that customers which is inactive for **30+ days** to connect them.  
 ##
 
 ## 🤖 Technologies Used
