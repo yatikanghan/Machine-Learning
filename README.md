@@ -98,8 +98,8 @@ Key insights extracted from the dataset:
 2️⃣ **Personalized Marketing** – Identifying **top consumers** and provide **VIP services** & **targeted promotions** to enhance our revenue.  
 3️⃣ **Optimize Discounts** – give **personalized discounting** for more product purchase, especially for unsestified consumers.  
 4️⃣ **Enhance Engagement** – apply **email marketing campign** for that customers which is inactive for **30+ days** to connect them.  
-##
 
+##
 ## 🤖 Technologies Used
 
 - Python 3.13
