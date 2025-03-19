@@ -10,27 +10,32 @@
 
  This project observed e-commerce customer behaviour in online shopping throughout my machine learning knowledge and techniques. Using a dataset of e-commerce customer behaviour, it obseved important aspects that influence online shopping and developing online shopping prediction models to enhance our business.
 
-[CHECK IT OUT 🚀](https://c2p-cmd.github.io/online-gaming-behavior-analysis/)
 
 ## 🎯 Objectives
 
-- Explore and analyze factors influencing online gaming engagement
-- Identify key predictors of player engagement levels
-- Build and compare various classification models
-- Develop a robust model to predict engagement levels
-- Provide actionable insights for game design and player retention
+- Analyze customer behaviour, purchase habit and satisfaction level.
+- Identify how customers attracted, and how enhance business opportunity.
+- Observation of different value comparison so that we focuses on our actual customers.
+- Focus on our targeted audience, and improve our sales.
+- It Helps businesses archive their goals and optimize their valuable assets.
 
 ## 📊 Dataset
 
-The dataset contains information about 40,000+ online game players including:
+The dataset contains information about E-Commerce Customer Behaviour Dataset including:
 
-- Demographic data (age, gender, location)
-- Gaming behavior (play time, session frequency, session duration)
-- Progression metrics (player level, achievements unlocked)
-- Monetization data (in-game purchases)
-- Game preferences (genre, difficulty)
+Customer ID - Integer
+Gender - String
+Age - Integer
+City - String
+Membership Type - String
+Total Spend - Numeric
+Items Purchased - Integer
+Average Rating - Numeric
+Discount Applied - Boolean
+Days Since Last Purchase - Integer
+Satisfaction Level - String
 
-Source: [Kaggle - Online Gaming Behavior Dataset](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
+Source: [Kaggle - E-commerce Customer Behavior Dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset)
 
 ## 🔍 Exploratory Data Analysis
 
