@@ -37,14 +37,36 @@ The dataset contains information about E-Commerce Customer Behaviour Dataset inc
 
 Source: [Kaggle - E-commerce Customer Behavior Dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset)
 
-## 🔍 Exploratory Data Analysis
+##
 
-The EDA reveals several key insights:
+## 📊 Exploratory Data Analysis (EDA) Insights  
+Key insights extracted from the dataset:
 
-- **Demographics**: Players have a mean age of 31.99 years with broad distribution across age groups
-- **Playtime**: Average weekly play time is 12.02 hours, with Action and Strategy genres having highest engagement
-- **Engagement**: Medium engagement is most common (47%), followed by High (27%) and Low (26%)
-- **Correlations**: Strong relationships between engagement and player level, achievements unlocked, and session metrics
+- **Demographics:**
+  - The average customer age is **33.60 years** with a broad age distribution.
+- **Spending Behavior:**
+  - Customers spend an average of **$845.38** per transaction.
+  - Average number of items purchased per order: **12.6 items**.
+- **Engagement Levels:**
+  - Satisfaction Level Distribution:
+    - **Satisfied**: 36.30%
+    - **Neutral**: 30.66%
+    - **Unsatisfied**: 33.24%
+  - Average days between purchases: **26.59 days**.
+- **Correlations:**
+  - Strong relationships between **customer engagement, total spend, and purchase frequency**.
+  - Customers with higher satisfaction tend to spend **$595.14**.
+
+---
+
+## 🛠 Project Pipeline  
+1️⃣ **Data Preprocessing**: Handle missing values, encode categorical features, and normalize numerical features.  
+2️⃣ **Feature Engineering**: Identify key features influencing customer satisfaction and spending.  
+3️⃣ **Model Selection & Training**: Train ML models like **Random Forest, XGBoost, and Logistic Regression**.  
+4️⃣ **Evaluation**: Use **accuracy, precision, recall, RMSE, and F1-score** for performance assessment.  
+5️⃣ **Deployment & Business Insights**: Generate recommendations for customer retention and marketing strategies.  
+
+
 
 ## 🧮 Machine Learning Models
 
