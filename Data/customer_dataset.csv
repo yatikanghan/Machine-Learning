@@ -70,7 +70,7 @@ Customer_ID,Gender,Age,City,Membership_Type,Total_Spend,Items_Purchased,Average_
 169,Female,43,Chicago,Bronze,500.75,10,3.3,TRUE,40,Unsatisfied
 170,Male,30,San Francisco,Gold,1460.5,20,4.8,FALSE,12,Satisfied
 171,Male,27,Miami,Silver,700.4,13,4,TRUE,53,Unsatisfied
-172,Female,37,Houston,Bronze,420.8,7,3.1,FALSE,21,
+172,Female,37,Houston,Bronze,420.8,7,3.1,FALSE,21,Satisfied
 173,Female,31,New York,Gold,1130.6,15,4.5,TRUE,26,Satisfied
 174,Male,35,Los Angeles,Silver,820.9,12,4.3,FALSE,12,Neutral
 175,Female,41,Chicago,Bronze,480.25,9,3.6,TRUE,38,Unsatisfied
