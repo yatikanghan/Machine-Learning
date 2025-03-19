@@ -119,18 +119,12 @@ Key insights extracted from the dataset:
 git clone https://github.com/yatikanghan/Machine-Learning.git
 ```
 
-2. Create and activate a virtual environment
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies
+2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Open the Jupyter notebook
+3. Open the Jupyter notebook
 ```bash
 jupyter notebook jupyter/project.ipynb
 ```
